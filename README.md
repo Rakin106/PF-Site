@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Saltwayer
-- 👀 I’m interested in learning new code language 
-- 🌱 I’m currently learning Java script 
-- 💞️ Right now i have no plans on mind
-- 📫 How to reach me USE my email 
+- Hi, I’m @Saltwayer
+- I’m interested in learning new code language.
+- I’m currently learning Java script.
+- How to reach me USE my email 
 
 <!---
 Saltwayer/Saltwayer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
