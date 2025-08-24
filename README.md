@@ -1,19 +1,28 @@
-Rakin Bhuiyan's Portfolio Website
-This repository contains the source code for my personal portfolio website. It serves as a platform to present my background, technical skills, and selected projects. I am currently a Computer Engineering student at Politecnico di Torino with a strong interest in Artificial Intelligence and Machine Learning. I am committed to continuous learning and growth in the field of technology.
+# Rakin Bhuiyan — Portfolio Website
 
-Features
-Responsive Design: Optimized for various screen sizes and devices.
+This repository contains the source code for my personal portfolio website. It serves as a platform to present my background, technical skills, education, and selected projects. I am currently a Computer Engineering student at Politecnico di Torino with a strong interest in Artificial Intelligence and Machine Learning. This site reflects my journey, growth, and commitment to continuous learning in technology.
 
-Project Showcase: A curated selection of academic and personal projects.
+## Features
 
-Contact Information: Provides ways to connect with me professionally.
+- Responsive Design — Optimized for desktops, tablets, and mobile devices.
+- Dark/Light Mode — Theme toggle with saved user preference.
+- Project Showcase — Curated academic projects, simulations, and certifications.
+- Interactive Animations — Smooth UI transitions powered by Framer Motion.
+- Contact Section — Easy ways to reach me via LinkedIn, GitHub, or email.
+- SEO Optimized — Meta description, structured data, and accessibility support.
 
-Technologies Used
-HTML & CSS
+## Technologies Used
 
-JavaScript
+- React 18 — Component-based UI framework  
+- Vite 5 — Front-end build tool  
+- Tailwind CSS — Utility-first styling with dark mode support  
+- Framer Motion — Declarative animations and transitions  
+- Lucide React — Icon set for clean UI  
 
-React.js
+## Getting Started
 
-About
-This portfolio is designed to reflect my journey in computer engineering and to highlight the areas I am most passionate about, including AI, machine learning, and modern web development. It demonstrates both my technical capabilities and my commitment to professional development.
+Clone the repository and install dependencies:
+
+```bash
+npm install
+npm run dev
