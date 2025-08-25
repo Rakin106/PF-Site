@@ -21,7 +21,7 @@ This repository contains the source code for my personal portfolio website. It s
 
 ## Getting Started
 
-Clone the repository and install dependencies:
+Clone the repository and install dependencies  :
 
 ```bash
 npm install
